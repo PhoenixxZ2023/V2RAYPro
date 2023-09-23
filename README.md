@@ -1,6 +1,6 @@
 INSTALADOR V2RAY
 
-source <(curl -sSL https://raw.githubusercontent.com/PhoenixxZ2023/V2RAYPro/main/v2ray/v2ray.sh)
+source <(curl -sSL https://raw.githubusercontent.com/PhoenixxZ2023/V2RAYPro/main/v2ray-manager/v2ray.sh)
 
 INSTALADOR ORIGINAL
 
